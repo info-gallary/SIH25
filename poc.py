@@ -144,7 +144,7 @@ with col2:
 
 # Sidebar
 with st.sidebar:
-    st.image(r"C:\Users\DELL\OneDrive\Pictures\DOMinators_logo_V1.png", width=300)
+    st.image(r"./DOMinators_logo_V1.png", width=300)
     
     st.markdown("### 🎯 Navigation")
     page = st.selectbox(
